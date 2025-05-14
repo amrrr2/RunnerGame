@@ -12,7 +12,7 @@ With animated sprites, background music, and smooth jump mechanics, Pixel Runner
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="screenshots/jump.png" alt="Player Jumping" width="600"/>
+  <img src="screenshots/Jump.png" alt="Player Jumping" width="600"/>
   <br/>
   <em>Jump to dodge snails and flying bugs!</em>
 </p>
